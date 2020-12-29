@@ -1,1 +1,1 @@
-# Debtors-Proiect-POO
+# Echipa Debtors-Proiect-POO
